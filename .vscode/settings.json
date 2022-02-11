@@ -1,0 +1,6 @@
+{
+  "editor.detectIndentation": true,
+  "editor.formatOnSave": true,
+  "css.customData": [".vscode/css.css-data.json"],
+  "eslint.workingDirectories": ["./backend"]
+}
